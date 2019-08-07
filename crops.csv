@@ -1,0 +1,29 @@
+S.No,Crop,Area in Hect,Production (Tonnes),Productivity (in Kg./Hec.)
+1,Paddy* in Cereals,1905726,5792415,3039
+2,Cholam(Jowar) in Cereals,243465,246981,1014
+3,Cumbu(Bajra) in Cereals,49482,77369,1564
+4,Ragi in Cereals,75650,171096,2262
+5,Maize in Cereals,230489,1027536,4458
+6,Small Millets in Cereals,32228,33533,1040
+7,Total Cereals,2537040,7348930,2897
+8,Bengal gram in Pulses,7296,4937,677
+9,Red gram in Pulses,35751,23671,662
+10,Green gram in Pulses,171666,57683,336
+11,Black gram in Pulses,304432,123011,404
+12,Horse gram in Pulses,47320,21729,459
+13,Other Pulses in Pulses,70270,14159,201
+14,Total Pulses in pulses,636735,245190,385
+15,Total Food Grains(Pulses and Cereals),1273470,490380,2393
+16,Groundnut in Oil Seeds,385509,895638,2323
+17,Gingelly in Oil Seeds,48189,25387,527
+18,Coconut@ in oil Seeds,410149,59656,14545
+18,Castor in Oil Seeds,5972,1862,312
+20,Other in Oil Seeds,15798,NA,NA
+21,Total Oil Seeds,865617,982543,1135.07
+22,Cotton# in Other Crops,120765,247930,349
+23,Sugarcane** in other Crops,315961,34251796,108
+24,Tobacco in Other Crops,5366,8209,1530
+25,Chillies in Other Crops,53626,21690,404
+26,All other crops,1217554,NA,NA
+27,Total Other Crops,1713272,34529625,20154.2
+28,"Total (Pulses, Oil Seeds and Other Crops)",5752664,NA,NA
